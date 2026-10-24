@@ -1,0 +1,29 @@
+{
+  "id": "tech_issues",
+  "language": "fr",
+  "name": "Problèmes techniques",
+  "keywords": {
+    "bloqué": 2,
+    "bloquée": 2,
+    "bogue": 4,
+    "bug": 4,
+    "bugs": 4,
+    "chargement": 2,
+    "coupure": 3,
+    "déconnexion": 3,
+    "erreur": 4,
+    "erreurs": 4,
+    "horsligne": 3,
+    "panne": 5,
+    "plantage": 5,
+    "planté": 5,
+    "plantée": 5,
+    "redémarrer": 2,
+    "serveur": 3
+  },
+  "search_terms": [
+    "computer not working meme",
+    "technical difficulties reaction",
+    "server down gif"
+  ]
+}

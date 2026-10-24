@@ -1,0 +1,24 @@
+{
+  "id": "overtime",
+  "language": "en",
+  "name": "Overtime",
+  "keywords": {
+    "afterhours": 4,
+    "evening": 2,
+    "extra": 3,
+    "hours": 3,
+    "late": 3,
+    "lateworking": 5,
+    "midnight": 4,
+    "night": 2,
+    "nightshift": 4,
+    "overhours": 5,
+    "overtime": 5,
+    "weekend": 2
+  },
+  "search_terms": [
+    "working late office meme",
+    "overtime exhausted gif",
+    "still at work reaction"
+  ]
+}

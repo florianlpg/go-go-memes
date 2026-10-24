@@ -1,0 +1,25 @@
+{
+  "id": "return_to_office",
+  "language": "en",
+  "name": "Return to Office",
+  "keywords": {
+    "arrival": 2,
+    "commute": 5,
+    "commuting": 5,
+    "desk": 2,
+    "mandatoryoffice": 4,
+    "office": 2,
+    "officebound": 5,
+    "on-site": 4,
+    "onsite": 4,
+    "parking": 3,
+    "rto": 5,
+    "traffic": 3,
+    "train": 3
+  },
+  "search_terms": [
+    "return to office meme",
+    "commute to work gif",
+    "back in office reaction"
+  ]
+}

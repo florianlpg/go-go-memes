@@ -1,0 +1,33 @@
+{
+  "id": "happiness",
+  "language": "fr",
+  "name": "Joie",
+  "keywords": {
+    "chouette": 2,
+    "content": 3,
+    "contente": 3,
+    "cool": 2,
+    "enchanté": 5,
+    "enchantée": 5,
+    "euphorique": 5,
+    "excellent": 3,
+    "excellente": 3,
+    "génial": 4,
+    "géniale": 4,
+    "heureuse": 4,
+    "heureux": 4,
+    "incroyable": 3,
+    "joie": 4,
+    "magnifique": 4,
+    "ravi": 5,
+    "ravie": 5,
+    "sourire": 2,
+    "super": 3,
+    "youpi": 2
+  },
+  "search_terms": [
+    "happy reaction gif",
+    "celebration meme",
+    "wholesome reaction"
+  ]
+}

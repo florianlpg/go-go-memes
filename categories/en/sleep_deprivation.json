@@ -1,0 +1,26 @@
+{
+  "id": "sleep_deprivation",
+  "language": "en",
+  "name": "Sleep Deprivation",
+  "keywords": {
+    "awake": 3,
+    "bed": 2,
+    "deprivation": 4,
+    "drowsy": 4,
+    "exhausted": 5,
+    "fatigue": 3,
+    "insomnia": 5,
+    "morning": 2,
+    "nap": 3,
+    "sleep": 4,
+    "sleepless": 5,
+    "sleepy": 5,
+    "tired": 2,
+    "yawning": 4
+  },
+  "search_terms": [
+    "sleep deprived office meme",
+    "falling asleep at work gif",
+    "tired reaction meme"
+  ]
+}

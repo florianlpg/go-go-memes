@@ -1,0 +1,27 @@
+{
+  "id": "sleep_deprivation",
+  "language": "fr",
+  "name": "Manque de sommeil",
+  "keywords": {
+    "bâiller": 4,
+    "dormir": 3,
+    "fatigué": 2,
+    "fatiguée": 2,
+    "insomniaque": 5,
+    "insomnie": 5,
+    "lit": 2,
+    "nuit": 2,
+    "réveillé": 3,
+    "réveillée": 3,
+    "sieste": 3,
+    "sommeil": 4,
+    "somnolent": 5,
+    "somnolente": 5,
+    "somnoler": 4
+  },
+  "search_terms": [
+    "sleep deprived office meme",
+    "falling asleep at work gif",
+    "tired reaction meme"
+  ]
+}

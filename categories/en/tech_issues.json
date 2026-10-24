@@ -1,0 +1,30 @@
+{
+  "id": "tech_issues",
+  "language": "en",
+  "name": "Tech Problems",
+  "keywords": {
+    "broken": 5,
+    "bug": 4,
+    "crash": 5,
+    "crashed": 5,
+    "disconnected": 3,
+    "downtime": 5,
+    "error": 4,
+    "errors": 4,
+    "failing": 4,
+    "frozen": 2,
+    "glitch": 4,
+    "loading": 2,
+    "offline": 3,
+    "outage": 5,
+    "reboot": 2,
+    "restart": 2,
+    "server": 3,
+    "timeout": 3
+  },
+  "search_terms": [
+    "computer not working meme",
+    "technical difficulties reaction",
+    "server down gif"
+  ]
+}

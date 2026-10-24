@@ -1,0 +1,27 @@
+{
+  "id": "sarcasm",
+  "language": "fr",
+  "name": "Sarcasme",
+  "keywords": {
+    "bien": 3,
+    "bravo": 4,
+    "génie": 4,
+    "ironie": 5,
+    "ironique": 5,
+    "magnifique": 2,
+    "ouais": 2,
+    "sarcasme": 5,
+    "sarcastique": 5,
+    "super": 2,
+    "sûr": 3,
+    "sûrement": 4,
+    "totalement": 3,
+    "vraiment": 3,
+    "évidemment": 4
+  },
+  "search_terms": [
+    "sarcastic reaction gif",
+    "sure jan meme",
+    "eyeroll meme"
+  ]
+}

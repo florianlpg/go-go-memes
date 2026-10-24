@@ -1,0 +1,25 @@
+{
+  "id": "return_to_office",
+  "language": "fr",
+  "name": "Retour au bureau",
+  "keywords": {
+    "bouchons": 3,
+    "bureau": 2,
+    "déplacement": 4,
+    "embouteillages": 4,
+    "métro": 3,
+    "open-space": 2,
+    "parking": 3,
+    "présentiel": 5,
+    "retourbureau": 5,
+    "route": 2,
+    "train": 3,
+    "trajet": 5,
+    "transports": 4
+  },
+  "search_terms": [
+    "return to office meme",
+    "commute to work gif",
+    "back in office reaction"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sarcasm",
+  "language": "en",
+  "name": "Sarcasm",
+  "keywords": {
+    "brilliant": 4,
+    "genius": 4,
+    "great": 2,
+    "ironic": 5,
+    "irony": 5,
+    "obviously": 4,
+    "right": 2,
+    "sarcasm": 5,
+    "sarcastic": 5,
+    "seriously": 3,
+    "sure": 4,
+    "totally": 3,
+    "whatever": 3,
+    "wow": 2
+  },
+  "search_terms": [
+    "sarcastic reaction gif",
+    "sure jan meme",
+    "eyeroll meme"
+  ]
+}
